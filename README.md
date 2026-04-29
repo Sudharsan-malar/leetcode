@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sudharsan-malar/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sudharsan-malar/leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudharsan-malar/leetcode/tree/master/0207-course-schedule) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sudharsan-malar/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sudharsan-malar/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
