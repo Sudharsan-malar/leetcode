@@ -13,9 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sudharsan-malar/leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Sudharsan-malar/leetcode/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
