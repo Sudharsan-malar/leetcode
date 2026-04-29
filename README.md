@@ -27,4 +27,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/Sudharsan-malar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sudharsan-malar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sudharsan-malar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Sudharsan-malar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
