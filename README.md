@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sudharsan-malar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sudharsan-malar/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Sudharsan-malar/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Sudharsan-malar/leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Sudharsan-malar/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Sudharsan-malar/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharsan-malar/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -137,5 +138,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sudharsan-malar/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Sudharsan-malar/leetcode/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sudharsan-malar/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
