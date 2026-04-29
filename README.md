@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sudharsan-malar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Sudharsan-malar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0560-subarray-sum-equals-k](https://github.com/Sudharsan-malar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sudharsan-malar/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Sudharsan-malar/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
